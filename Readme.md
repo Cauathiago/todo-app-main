@@ -73,5 +73,4 @@ Any possible improvement
 ## Author
 
 
-- Frontend Mentor -https://www.frontendmentor.io/profile/AlbertSigsbert
-- Twitter - https://twitter.com/albert_sigsbert
+- Frontend Mentor -https://www.frontendmentor.io/profile/cauathiago
